@@ -9,3 +9,14 @@ C:\Users\bkesk\source\repos\Youtube\Blog.Service\obj\Debug\net6.0\Blog.Service.d
 C:\Users\bkesk\source\repos\Youtube\Blog.Service\obj\Debug\net6.0\refint\Blog.Service.dll
 C:\Users\bkesk\source\repos\Youtube\Blog.Service\obj\Debug\net6.0\Blog.Service.pdb
 C:\Users\bkesk\source\repos\Youtube\Blog.Service\obj\Debug\net6.0\ref\Blog.Service.dll
+C:\Users\bkesk\source\repos\Blog\Blog.Service\bin\Debug\net6.0\Blog.Service.deps.json
+C:\Users\bkesk\source\repos\Blog\Blog.Service\bin\Debug\net6.0\Blog.Service.dll
+C:\Users\bkesk\source\repos\Blog\Blog.Service\bin\Debug\net6.0\Blog.Service.pdb
+C:\Users\bkesk\source\repos\Blog\Blog.Service\obj\Debug\net6.0\Blog.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkesk\source\repos\Blog\Blog.Service\obj\Debug\net6.0\Blog.Service.AssemblyInfoInputs.cache
+C:\Users\bkesk\source\repos\Blog\Blog.Service\obj\Debug\net6.0\Blog.Service.AssemblyInfo.cs
+C:\Users\bkesk\source\repos\Blog\Blog.Service\obj\Debug\net6.0\Blog.Service.csproj.CoreCompileInputs.cache
+C:\Users\bkesk\source\repos\Blog\Blog.Service\obj\Debug\net6.0\Blog.Service.dll
+C:\Users\bkesk\source\repos\Blog\Blog.Service\obj\Debug\net6.0\refint\Blog.Service.dll
+C:\Users\bkesk\source\repos\Blog\Blog.Service\obj\Debug\net6.0\Blog.Service.pdb
+C:\Users\bkesk\source\repos\Blog\Blog.Service\obj\Debug\net6.0\ref\Blog.Service.dll

@@ -2072,11 +2072,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bkesk\\source\\repos\\Youtube\\Blog.Web\\Blog.Web.csproj",
+      "projectUniqueName": "C:\\Users\\bkesk\\source\\repos\\Blog\\Blog.Web\\Blog.Web.csproj",
       "projectName": "Blog.Web",
-      "projectPath": "C:\\Users\\bkesk\\source\\repos\\Youtube\\Blog.Web\\Blog.Web.csproj",
+      "projectPath": "C:\\Users\\bkesk\\source\\repos\\Blog\\Blog.Web\\Blog.Web.csproj",
       "packagesPath": "C:\\Users\\bkesk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bkesk\\source\\repos\\Youtube\\Blog.Web\\obj\\",
+      "outputPath": "C:\\Users\\bkesk\\source\\repos\\Blog\\Blog.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bkesk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2094,8 +2094,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\bkesk\\source\\repos\\Youtube\\Blog.Data\\Blog.Data.csproj": {
-              "projectPath": "C:\\Users\\bkesk\\source\\repos\\Youtube\\Blog.Data\\Blog.Data.csproj"
+            "C:\\Users\\bkesk\\source\\repos\\Blog\\Blog.Data\\Blog.Data.csproj": {
+              "projectPath": "C:\\Users\\bkesk\\source\\repos\\Blog\\Blog.Data\\Blog.Data.csproj"
             }
           }
         }

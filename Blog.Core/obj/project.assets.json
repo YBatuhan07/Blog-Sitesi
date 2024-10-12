@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bkesk\\source\\repos\\Youtube\\Blog.Core\\Blog.Core.csproj",
+      "projectUniqueName": "C:\\Users\\bkesk\\source\\repos\\Blog\\Blog.Core\\Blog.Core.csproj",
       "projectName": "Blog.Core",
-      "projectPath": "C:\\Users\\bkesk\\source\\repos\\Youtube\\Blog.Core\\Blog.Core.csproj",
+      "projectPath": "C:\\Users\\bkesk\\source\\repos\\Blog\\Blog.Core\\Blog.Core.csproj",
       "packagesPath": "C:\\Users\\bkesk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bkesk\\source\\repos\\Youtube\\Blog.Core\\obj\\",
+      "outputPath": "C:\\Users\\bkesk\\source\\repos\\Blog\\Blog.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bkesk\\AppData\\Roaming\\NuGet\\NuGet.Config",

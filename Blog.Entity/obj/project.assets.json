@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bkesk\\source\\repos\\Youtube\\Blog.Entity\\Blog.Entity.csproj",
+      "projectUniqueName": "C:\\Users\\bkesk\\source\\repos\\Blog\\Blog.Entity\\Blog.Entity.csproj",
       "projectName": "Blog.Entity",
-      "projectPath": "C:\\Users\\bkesk\\source\\repos\\Youtube\\Blog.Entity\\Blog.Entity.csproj",
+      "projectPath": "C:\\Users\\bkesk\\source\\repos\\Blog\\Blog.Entity\\Blog.Entity.csproj",
       "packagesPath": "C:\\Users\\bkesk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bkesk\\source\\repos\\Youtube\\Blog.Entity\\obj\\",
+      "outputPath": "C:\\Users\\bkesk\\source\\repos\\Blog\\Blog.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bkesk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,8 +54,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\bkesk\\source\\repos\\Youtube\\Blog.Core\\Blog.Core.csproj": {
-              "projectPath": "C:\\Users\\bkesk\\source\\repos\\Youtube\\Blog.Core\\Blog.Core.csproj"
+            "C:\\Users\\bkesk\\source\\repos\\Blog\\Blog.Core\\Blog.Core.csproj": {
+              "projectPath": "C:\\Users\\bkesk\\source\\repos\\Blog\\Blog.Core\\Blog.Core.csproj"
             }
           }
         }

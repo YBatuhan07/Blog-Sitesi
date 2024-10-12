@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z5Fpaj1cZBg=",
+  "dgSpecHash": "ZlQoGRyipGc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\bkesk\\source\\repos\\Youtube\\Blog.Web\\Blog.Web.csproj",
+  "projectFilePath": "C:\\Users\\bkesk\\source\\repos\\Blog\\Blog.Web\\Blog.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bkesk\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\bkesk\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

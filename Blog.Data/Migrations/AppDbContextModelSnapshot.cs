@@ -74,6 +74,32 @@ namespace Blog.Data.Migrations
                     b.HasIndex("ImageId");
 
                     b.ToTable("Articles");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("dbd73ac3-6b1b-4bad-8d15-ed43af7fa387"),
+                            CategoryId = new Guid("7fd207c4-647e-46e6-abfe-3442275d12db"),
+                            Content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                            CreatedBy = "Yazar",
+                            CreatedDate = new DateTime(2024, 10, 12, 0, 22, 10, 572, DateTimeKind.Local).AddTicks(4650),
+                            ImageId = new Guid("e65396d8-d781-473c-b145-43dc13b9280b"),
+                            IsDeleted = false,
+                            Title = "Makale 1",
+                            ViewCount = 6
+                        },
+                        new
+                        {
+                            Id = new Guid("9aff9475-e934-46db-9895-e5ab2b5c78fe"),
+                            CategoryId = new Guid("b2c4813f-3d93-4ea9-b354-54f33c15398d"),
+                            Content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                            CreatedBy = "Yazar-2",
+                            CreatedDate = new DateTime(2024, 10, 12, 0, 22, 10, 572, DateTimeKind.Local).AddTicks(4655),
+                            ImageId = new Guid("cd3535c8-c295-43c8-bc6c-afe3d0e2dff6"),
+                            IsDeleted = false,
+                            Title = "Makale 2",
+                            ViewCount = 6
+                        });
                 });
 
             modelBuilder.Entity("Blog.Entity.Entities.Category", b =>
@@ -111,6 +137,24 @@ namespace Blog.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Categories");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("7fd207c4-647e-46e6-abfe-3442275d12db"),
+                            CreatedBy = "Yazar 1-1",
+                            CreatedDate = new DateTime(2024, 10, 12, 0, 22, 10, 572, DateTimeKind.Local).AddTicks(4838),
+                            IsDeleted = false,
+                            Name = "Makale 1-1"
+                        },
+                        new
+                        {
+                            Id = new Guid("b2c4813f-3d93-4ea9-b354-54f33c15398d"),
+                            CreatedBy = "Yazar 2-1",
+                            CreatedDate = new DateTime(2024, 10, 12, 0, 22, 10, 572, DateTimeKind.Local).AddTicks(4841),
+                            IsDeleted = false,
+                            Name = "Makale 2-1"
+                        });
                 });
 
             modelBuilder.Entity("Blog.Entity.Entities.Image", b =>
@@ -152,6 +196,26 @@ namespace Blog.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Images");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("e65396d8-d781-473c-b145-43dc13b9280b"),
+                            CreatedBy = "Yazar",
+                            CreatedDate = new DateTime(2024, 10, 12, 0, 22, 10, 572, DateTimeKind.Local).AddTicks(4941),
+                            FileName = "images/testimage2",
+                            FileType = "jpg",
+                            IsDeleted = false
+                        },
+                        new
+                        {
+                            Id = new Guid("cd3535c8-c295-43c8-bc6c-afe3d0e2dff6"),
+                            CreatedBy = "Yazar",
+                            CreatedDate = new DateTime(2024, 10, 12, 0, 22, 10, 572, DateTimeKind.Local).AddTicks(4950),
+                            FileName = "images/testimage",
+                            FileType = "jpg",
+                            IsDeleted = false
+                        });
                 });
 
             modelBuilder.Entity("Blog.Entity.Entities.Article", b =>

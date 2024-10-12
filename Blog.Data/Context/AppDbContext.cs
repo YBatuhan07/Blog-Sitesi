@@ -1,5 +1,7 @@
-﻿using Blog.Entity.Entities;
+﻿using Blog.Data.Mappings;
+using Blog.Entity.Entities;
 using Microsoft.EntityFrameworkCore;
+using System.Reflection;
 
 namespace Blog.Data.Context
 {
@@ -19,7 +21,7 @@ namespace Blog.Data.Context
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-
+            modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
         }
     }
 }
