@@ -9,6 +9,7 @@
       "Blog.Web/1.0.0": {
         "dependencies": {
           "Blog.Data": "1.0.0",
+          "Blog.Service": "1.0.0",
           "Microsoft.EntityFrameworkCore.Design": "6.0.32",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.30"
         },
@@ -476,6 +477,18 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "Blog.Service/1.0.0": {
+        "dependencies": {
+          "Blog.Data": "1.0.0",
+          "Blog.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Blog.Service.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -797,6 +810,11 @@
       "sha512": ""
     },
     "Blog.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Blog.Service/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -820,6 +820,20 @@
         "runtime": {
           "bin/placeholder/Blog.Entity.dll": {}
         }
+      },
+      "Blog.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Blog.Data": "1.0.0",
+          "Blog.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Blog.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Blog.Service.dll": {}
+        }
       }
     }
   },
@@ -2056,11 +2070,17 @@
       "type": "project",
       "path": "../Blog.Entity/Blog.Entity.csproj",
       "msbuildProject": "../Blog.Entity/Blog.Entity.csproj"
+    },
+    "Blog.Service/1.0.0": {
+      "type": "project",
+      "path": "../Blog.Service/Blog.Service.csproj",
+      "msbuildProject": "../Blog.Service/Blog.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Blog.Data >= 1.0.0",
+      "Blog.Service >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.32",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.30"
     ]
@@ -2095,6 +2115,9 @@
           "projectReferences": {
             "C:\\Users\\bkesk\\source\\repos\\Blog\\Blog.Data\\Blog.Data.csproj": {
               "projectPath": "C:\\Users\\bkesk\\source\\repos\\Blog\\Blog.Data\\Blog.Data.csproj"
+            },
+            "C:\\Users\\bkesk\\source\\repos\\Blog\\Blog.Service\\Blog.Service.csproj": {
+              "projectPath": "C:\\Users\\bkesk\\source\\repos\\Blog\\Blog.Service\\Blog.Service.csproj"
             }
           }
         }

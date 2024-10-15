@@ -1,11 +1,6 @@
 ﻿using Blog.Data.Context;
 using Blog.Data.Repository.Abstract;
 using Blog.Data.Repository.Concrete;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Blog.Data.UnitOfWords
 {

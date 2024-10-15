@@ -20,3 +20,11 @@ C:\Users\bkesk\source\repos\Blog\Blog.Service\obj\Debug\net6.0\Blog.Service.dll
 C:\Users\bkesk\source\repos\Blog\Blog.Service\obj\Debug\net6.0\refint\Blog.Service.dll
 C:\Users\bkesk\source\repos\Blog\Blog.Service\obj\Debug\net6.0\Blog.Service.pdb
 C:\Users\bkesk\source\repos\Blog\Blog.Service\obj\Debug\net6.0\ref\Blog.Service.dll
+C:\Users\bkesk\source\repos\Blog\Blog.Service\bin\Debug\net6.0\Blog.Core.dll
+C:\Users\bkesk\source\repos\Blog\Blog.Service\bin\Debug\net6.0\Blog.Data.dll
+C:\Users\bkesk\source\repos\Blog\Blog.Service\bin\Debug\net6.0\Blog.Entity.dll
+C:\Users\bkesk\source\repos\Blog\Blog.Service\bin\Debug\net6.0\Blog.Data.pdb
+C:\Users\bkesk\source\repos\Blog\Blog.Service\bin\Debug\net6.0\Blog.Entity.pdb
+C:\Users\bkesk\source\repos\Blog\Blog.Service\bin\Debug\net6.0\Blog.Core.pdb
+C:\Users\bkesk\source\repos\Blog\Blog.Service\obj\Debug\net6.0\Blog.Service.csproj.AssemblyReference.cache
+C:\Users\bkesk\source\repos\Blog\Blog.Service\obj\Debug\net6.0\Blog.Ser.A0DBEB3C.Up2Date
